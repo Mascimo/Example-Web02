@@ -1,6 +1,7 @@
 # Example Web02
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Mascimo/Example-Web02/blob/main/LICENSE) 
 
+Projeto: https://mascimo.github.io/Example-Web02/
 
 # Sobre o projeto
 
