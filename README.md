@@ -1,5 +1,5 @@
 # Example Web02
-[![NPM](https://img.shields.io/npm/l/react)](https:// link aki) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Mascimo/Example-Web02/blob/main/LICENSE) 
 
 
 # Sobre o projeto
@@ -32,7 +32,7 @@ Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
-git clone 
+git clone https://github.com/Mascimo/Example-Web02
 
 # entrar na pasta do projeto front end web
 cd front-web
